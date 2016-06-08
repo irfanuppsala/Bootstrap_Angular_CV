@@ -30,7 +30,7 @@ app.controller('HomeController', function($scope) {
     $scope.name = 'Irfan Ali';
     $scope.about = 'Jag gjorde min Mästare i Datavatenskap från Uppsala universitet. Jag har arbetat inom mjukvaruutveckling industrin för mer än fem år. Mina huvudsakliga arbets ares är PHP, MySQL, HTML, CSS, JavaScript. Jag har också arbetat med Java, .NET, Oracle, Elasticsearch, och vissa JavaScript-ramverk som Backbone och kantig.';
     $scope.mobile = '123-456 789';
-    $scope.email = 'smartirfan@gmail.com';
+    $scope.email = 'irfan@gmail.com';
     $scope.linkedin = 'https://linkedin.com/';
     $scope.institute = [
         {name:'Uppsala Universitet',year:'2010 2012', specialization: 'Datavatenskap'},
