@@ -33,8 +33,8 @@ app.controller('HomeController', function($scope) {
     $scope.email = 'irfan@gmail.com';
     $scope.linkedin = 'https://linkedin.com/';
     $scope.institute = [
-        {name:'Uppsala Universitet',year:'2010 2012', specialization: 'Datavatenskap'},
-        {name:'Arid Universitet',year:'2003 2005', specialization: 'Datavatenskap'}
+        {name:'Uppsala Universitet',year:'2010 2012', specialization: 'Masterprogrammet i datavetenskap'},
+        {name:'Arid Universitet',year:'2003 2005', specialization: 'Masterprogrammet i datavetenskap'}
     ];
     $scope.projects = [
         {name:'Söksida med PHP och MySQL',link:'http://www.smartirfan.esy.es/search/', download_detail:'./app/pdf/book_search.rtf', code:'./app/zip/Search.zip'},
